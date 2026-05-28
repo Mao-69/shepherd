@@ -15,6 +15,14 @@ Hemi-Sync® style, driven by live biometrics from a P58 / MOY-DBT5 smartwatch.
 
 https://github.com/user-attachments/assets/9920ff03-45a4-4178-b649-2cb3014cd965
 
+### Sample CRV Session
+> data from CRV Session 097-6601 1
+
+<img width="961" height="366" alt="Screenshot_20260528_010033" src="https://github.com/user-attachments/assets/adc5f265-50c0-4691-94dc-c6f44ffaa4ec" />
+
+<img width="946" height="589" alt="Screenshot_20260528_005742" src="https://github.com/user-attachments/assets/478225c4-6a95-47fe-ae15-4c337665309a" />
+
+<img width="974" height="435" alt="Screenshot_20260528_005831" src="https://github.com/user-attachments/assets/34d11f76-7313-4a44-8ef4-174249a3a51a" />
 
 
 ## What the audio engine produces
