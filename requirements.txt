@@ -1,0 +1,8 @@
+rich>=13.0
+sounddevice>=0.4.6
+numpy>=1.24
+
+# Voice synthesis (high quality). If missing, falls back to espeak-ng.
+# Quantized ~80MB model file auto-downloads on first run to
+# ~/.cache/crv_research/kokoro/
+kokoro-onnx>=0.4.0
