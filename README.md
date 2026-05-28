@@ -10,7 +10,8 @@ Hemi-Sync® style, driven by live biometrics from a P58 / MOY-DBT5 smartwatch.
 
 <img width="922" height="543" alt="Screenshot_20260525_150655" src="https://github.com/user-attachments/assets/d9d58395-7d61-4dc6-9a89-a4b9ae9db4c7" />
 
-
+### Example moving to Focus 12
+> Roughly every three minutes it will speak the target coordinate
 
 https://github.com/user-attachments/assets/9920ff03-45a4-4178-b649-2cb3014cd965
 
