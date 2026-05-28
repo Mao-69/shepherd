@@ -8,6 +8,9 @@ Hemi-Sync® style, driven by live biometrics from a P58 / MOY-DBT5 smartwatch.
 > registered trademark. This project is an independent open implementation
 > in a similar layered style for personal research use.
 
+<img width="922" height="543" alt="Screenshot_20260525_150655" src="https://github.com/user-attachments/assets/d9d58395-7d61-4dc6-9a89-a4b9ae9db4c7" />
+
+
 ## What the audio engine produces
 
 For each Focus level, the engine layers in real time:
